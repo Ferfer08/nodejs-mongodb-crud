@@ -1,0 +1,8 @@
+# estas son las variables de entorno
+.env
+
+#Modulos de Node
+node_modules
+
+#carpeta costruida
+dist
