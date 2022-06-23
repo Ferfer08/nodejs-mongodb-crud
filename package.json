@@ -12,6 +12,7 @@
   "author": "Fer_fer14",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.18.3",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "express-handlebars": "^6.0.6",
